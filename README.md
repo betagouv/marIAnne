@@ -10,4 +10,4 @@
 
 ---
 
-Original idea from @Ash-Crow
+Original idea from [@Ash-Crow](https://github.com/Ash-Crow)
