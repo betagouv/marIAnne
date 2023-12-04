@@ -4,4 +4,4 @@
 
 ---
 
-![marIAnne](./.github/marIAnne.jpeg)
+![marIAnne](./.github/marianne.jpeg)
