@@ -4,4 +4,6 @@
 
 ---
 
-![marIAnne](./.github/marianne.jpeg)
+<p align="center">
+    <img src="./.github/marianne.jpeg">
+</p>
