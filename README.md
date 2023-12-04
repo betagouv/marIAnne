@@ -4,4 +4,4 @@
 
 ---
 
-![marIAnne](.githbu/marIAnne.jpeg)
+![marIAnne](./.githbu/marIAnne.jpeg)
